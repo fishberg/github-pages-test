@@ -6,9 +6,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
+title: Home
 ---
 
-# Home
+# Home Page
 
   * [Supported GitHub Pages themes](https://pages.github.com/themes/)
   * [GitHub Pages Quickstart](https://docs.github.com/en/pages/quickstart)

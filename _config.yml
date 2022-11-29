@@ -1,5 +1,6 @@
 title: Test GitHub Page
 author: fishberg
+email: example@email.com
 description: > # this means to ignore newlines until "show_excerpts:"
     My test description
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -8,7 +9,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # this and add the path to the pages in order as they should show up
 # Comment this out to get all .md files in alphabetical order
 header_pages:
-- home.md
+- index.md
 - about.md
 
 # Build settings
