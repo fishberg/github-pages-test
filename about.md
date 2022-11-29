@@ -1,9 +1,8 @@
 ---
 layout: default
+title: About Me
 ---
 
-## Welcome to another page
+## About Me
 
-_yay_
-
-[back](./)
+I'm a pretty cool person.
