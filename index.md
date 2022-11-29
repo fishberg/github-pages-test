@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-## Home Page
+
   * [Supported GitHub Pages themes](https://pages.github.com/themes/)
   * [GitHub Pages Quickstart](https://docs.github.com/en/pages/quickstart)
 
