@@ -6,6 +6,6 @@ This is a sample README!
 
 Favorite Themes:
   * [Minima - Default](https://github.com/jekyll/minima)
-  * [Slate - This theme](https://github.com/pages-themes/slate)
-  * [Minimal - Alternative](https://github.com/pages-themes/minimal)
+  * [Slate](https://github.com/pages-themes/slate)
+  * [Minimal](https://github.com/pages-themes/minimal)
 
