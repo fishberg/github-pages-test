@@ -41,3 +41,7 @@ Top Bar:
 
 Misc:
   * [Link to another page](./another-page.html)
+
+<details>
+Collapsible details box
+</details>
