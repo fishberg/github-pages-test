@@ -23,6 +23,7 @@ Good Samples:
   * [Slate About Me](https://raw.githubusercontent.com/pages-themes/slate/master/another-page.md)
   * [ICRA'19 Workshop Repo](https://github.com/mit-racecar/icra2019-workshop)
   * [MIT RACECAR GitHub Page](https://github.com/mit-racecar/mit-racecar.github.io)
+  * [BWSI Dashboard](https://github.com/fishberg/bwsi-dashboard) -> unique CNAME domain name
 
 Dark Theme:
   * Default GitHub Pages uses old version of themes for stability.

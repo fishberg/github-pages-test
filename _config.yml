@@ -1,7 +1,5 @@
 title: Test GitHub Page
-author:
-  name: fishberg
-  #email: 
+author: fishberg
 description: > # this means to ignore newlines until "show_excerpts:"
     My test description
 show_excerpts: false # set to true to show excerpts on the homepage
