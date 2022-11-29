@@ -15,3 +15,6 @@ Favorite Themes:
   * [Minima - Default](https://github.com/jekyll/minima)
   * [Slate](https://github.com/pages-themes/slate)
   * [Minimal](https://github.com/pages-themes/minimal)
+
+Misc:
+  * [Link to other about](./about.html)
