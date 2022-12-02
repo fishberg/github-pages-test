@@ -44,7 +44,9 @@ title: Home
 
 #### Details Box:
 <details>
-Collapsible details box
+<summary>My Collapsible Details Box</summary>
+Here's some books!
+![](imgs/books.png)
 </details>
 
 #### Message Box:
@@ -66,6 +68,3 @@ I am a warning message
 </div>
 
 <!-- Reference: https://stackoverflow.com/questions/58114126/tip-warning-definition-description-boxes-in-markdown -->
-
-#### Image:
-![](imgs/books.png)
