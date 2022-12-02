@@ -51,6 +51,7 @@ Here's some books!
 </details>
 
 <hr>
+<br>
 
 ## Message Box:
 
