@@ -50,6 +50,8 @@ Here's some books!
 <img src="imgs/books.png" alt="Books Text">
 </details>
 
+<hr>
+
 ## Message Box:
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
